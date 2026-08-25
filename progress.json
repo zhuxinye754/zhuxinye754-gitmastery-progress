@@ -320,5 +320,14 @@
       "Great work! You have successfully checked in all the actors!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1787620249.140659,
+    "completed_at": 1787620250.615145,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
   }
 ]
